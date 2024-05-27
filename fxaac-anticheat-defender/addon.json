@@ -1,0 +1,11 @@
+{
+  "title": "FXAAC – All-in-One Security Solution (Anticheat, Banbypass and more)",
+  "type": "ServerContent",
+  "tags": [
+    "realism"
+  ],
+  "ignore": [
+    "*.md",
+    "license"
+  ]
+}
